@@ -1,0 +1,19 @@
+{
+  "name": "ehtest",
+  "version": "1.0.0",
+  "description": "test express handlebar",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LVforma/"
+  },
+  "author": "lolo.doudou@free.fr",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.4"
+  }
+}
